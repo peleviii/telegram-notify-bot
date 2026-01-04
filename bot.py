@@ -313,7 +313,7 @@ async def schedule_tick(context: ContextTypes.DEFAULT_TYPE) -> None:
     if not chat_ids:
         return
 
-    text = "☀️ Καλημέρα! Αυτό είναι το προγραμματισμένο μήνυμά σου."
+    text = "☀️ Καλημέρα! Αυτό είναι το προγραμματισμένο μήνυμά σου (Δήλωσε ωράρια)."
     logger.info("SCHEDULE send due=%d day=%s time=%02d:%02d", len(chat_ids), DAY_NAMES[dow], hour, minute)
 
     for chat_id in chat_ids:
