@@ -1,0 +1,7 @@
+2026-01-04 18:25:19,269 INFO - USER start chat_id=6447601553 user_id=6447601553
+2026-01-04 18:25:22,302 INFO - USER button chat_id=6447601553 action=action:set
+2026-01-04 18:25:23,651 INFO - USER set_day chat_id=6447601553 day=Κυριακή
+2026-01-04 18:25:27,963 INFO - USER button chat_id=6447601553 action=action:set
+2026-01-04 18:25:29,596 INFO - USER set_day chat_id=6447601553 day=Κυριακή
+2026-01-04 18:25:41,204 INFO - USER set_text chat_id=6447601553 day=Κυριακή time=18:27
+2026-01-04 18:27:18,914 INFO - SCHEDULE send due=1 day=Κυριακή time=18:27
